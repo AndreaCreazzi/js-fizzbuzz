@@ -45,6 +45,6 @@ abbiamo visto puoi usare varie tecniche (style , className, classList).
 - Inserisco in console un for che stampi i numeri da 1 a 100
 - Inserisco un **SE** i numeri sono multipli di 3 esca la stringa “Fizz”
 - **ALTRIMENTI SE** sono multipli di 5 esca la stringa "Buzz"
-- **AçTRIMENTI SE** sono multipli sia di 3 che di 5 esca la stringa "FizzBuzz"
+- **ALTRIMENTI SE** sono multipli sia di 3 che di 5 esca la stringa "FizzBuzz"
 - Creo un foglio di stile
 - Inserisco gli elementi nel DOM.
