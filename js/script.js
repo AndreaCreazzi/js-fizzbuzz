@@ -2,14 +2,14 @@
 console.log(`JS OK`);
 
 // Dati preliminari
-const gameElement = document.getElementById(`game`)
+const gameElement = document.getElementById(`game`);
 
-let numbers = `100`
-let testo = ` `
+let numbers = `100`;
+let testo = ` `;
 
-gameElement.classList.add(`btn`)
+gameElement.classList.add(`btn`);
 
-gameElement.classList.add(`btn-lg`)
+gameElement.classList.add(`btn-lg`);
 
 let background;
 
